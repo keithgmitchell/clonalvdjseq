@@ -1,0 +1,7 @@
+00-RawData/*
+01-Processing/*
+tempwork/*
+work/*
+.nextflow/*
+trace*
+.nextflow*
